@@ -39,6 +39,7 @@ public class Quote {
     @Override
     public String toString() {
 	//hello
+        //ok123:wq:wq
         return "Quote{" +
                 "type='" + type + '\'' +
                 ", value=" + value +
