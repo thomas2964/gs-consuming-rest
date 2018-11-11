@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Value {
 
-    private Long id;
+    private Long id;  //?
     private String quote;
 
     public Value() {
@@ -29,14 +29,16 @@ public class Value {
 
     @Override
     public String toString() {
-        //test2ff
+        //test2ff  qqqq111
 	//test123
         //
         //more
         //nov10
 	//another
 	//more
-        //Valuefdssadasdfsafs
+        //000
+        //999
+        //    ggggg
         return "Value{" +
                 "id=" + id +
                 ", quote='" + quote + '\'' +
