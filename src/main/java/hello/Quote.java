@@ -25,6 +25,7 @@ public class Quote {
     }
 
     //more and more and more
+    //more22222
     public void setType(String type) {
         this.type = type;
     }
@@ -49,6 +50,6 @@ public class Quote {
         return "Quote{" +
                 "type='" + type + '\'' +
                 ", value=" + value +
-                '}'; //helo
+                '}';
     }
 }

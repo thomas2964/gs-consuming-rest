@@ -21,11 +21,13 @@ public class Application {
 		SpringApplication.run(Application.class);
 	}
 	
+	//beannnfsdfsf
 	@Bean
 	public RestTemplate restTemplate(RestTemplateBuilder builder) {
 		return builder.build();
 	}
 
+	//bean2222
 	@Bean
 	public CommandLineRunner run(RestTemplate restTemplate) throws Exception {
 		return args -> {
