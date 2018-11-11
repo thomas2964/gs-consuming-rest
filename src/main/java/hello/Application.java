@@ -13,7 +13,8 @@ import java.util.LinkedList;
 
 @SpringBootApplication
 public class Application {
-	//App
+	//App2
+	//more
 	private static final Logger log = LoggerFactory.getLogger(Application.class);
 
 	public static void main(String args[]) {
@@ -32,7 +33,7 @@ public class Application {
 		return args -> {
 			Quote quote = restTemplate.getForObject(
 					"http://gturnquist-quoters.cfapps.io/api/random", Quote.class);
-			log.info(quote.toString());
+			log.info(quote.toString());  //testing
 		};
 	}
 }
