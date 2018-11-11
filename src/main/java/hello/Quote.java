@@ -38,6 +38,7 @@ public class Quote {
 
     @Override
     public String toString() {
+	//hello
         return "Quote{" +
                 "type='" + type + '\'' +
                 ", value=" + value +
