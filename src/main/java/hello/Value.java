@@ -15,7 +15,7 @@ public class Value {
         return this.id;
     }
 
-    //567
+    //56fsd7
     public String getQuote() {
         return this.quote;
     }
@@ -38,6 +38,7 @@ public class Value {
 	//another
 	//more
 	//234
+	//345
         return "Value{" +
                 "id=" + id +
                 ", quote='" + quote + '\'' +
