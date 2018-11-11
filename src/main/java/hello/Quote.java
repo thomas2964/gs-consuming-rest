@@ -24,7 +24,7 @@ public class Quote {
         return type;
     }
 
-    //more
+    //more22222
     public void setType(String type) {
         this.type = type;
     }
@@ -39,8 +39,8 @@ public class Quote {
 
     @Override
     public String toString() {
-	//hello
-        //ok123:wq:wq
+	//hello1
+        //ok123:wq:wq2
         //2
         //999/
         //888
