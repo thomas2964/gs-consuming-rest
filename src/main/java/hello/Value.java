@@ -36,6 +36,7 @@ public class Value {
         //nov10
 	//another
 	//more
+        //Value
         return "Value{" +
                 "id=" + id +
                 ", quote='" + quote + '\'' +
