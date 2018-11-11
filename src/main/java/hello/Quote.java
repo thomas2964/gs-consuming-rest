@@ -24,6 +24,7 @@ public class Quote {
         return type;
     }
 
+    //more
     public void setType(String type) {
         this.type = type;
     }
@@ -43,6 +44,8 @@ public class Quote {
         //2
         //999/
         //888
+	//1
+	//2
         return "Quote{" +
                 "type='" + type + '\'' +
                 ", value=" + value +

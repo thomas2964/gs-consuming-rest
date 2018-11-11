@@ -15,6 +15,7 @@ public class Value {
         return this.id;
     }
 
+    //56fsd7
     public String getQuote() {
         return this.quote;
     }
@@ -29,16 +30,9 @@ public class Value {
 
     @Override
     public String toString() {
-        //test2ff  qqqq111
+        //test2ff
 	//test123
-        //
-        //more
-        //nov10
-	//another
-	//more
-        //000
-        //999
-        //    ggggg
+
         return "Value{" +
                 "id=" + id +
                 ", quote='" + quote + '\'' +
