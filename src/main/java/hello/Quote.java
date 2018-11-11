@@ -40,6 +40,10 @@ public class Quote {
     @Override
     public String toString() {
 	//hello
+        //ok123:wq:wq
+        //2
+        //999/
+        //888
 	//1
 	//2
         return "Quote{" +

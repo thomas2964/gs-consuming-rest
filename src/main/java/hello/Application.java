@@ -13,7 +13,7 @@ import java.util.LinkedList;
 
 @SpringBootApplication
 public class Application {
-
+	//App
 	private static final Logger log = LoggerFactory.getLogger(Application.class);
 
 	public static void main(String args[]) {
