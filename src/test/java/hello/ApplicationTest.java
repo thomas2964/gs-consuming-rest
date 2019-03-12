@@ -28,7 +28,9 @@ import org.springframework.web.client.RestTemplate;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class ApplicationTest {
-	////	
+	////more comment
+	////additional comment
+	//third command
 	@Autowired
 	private RestTemplate restTemplate;
 
